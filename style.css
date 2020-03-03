@@ -1,0 +1,47 @@
+*{
+  background-color: #fc6565;
+  font-family: "Arial Black", Gadget, sans-serif;
+  line-height: 50%;
+  font-weight: bold;
+
+}
+
+.bigHeader{
+  display: flex;
+  justify-content: center;
+  font-size: 150pt;
+  text-align: center;
+}
+
+.firstPs{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 20pt;
+  text-align: center;
+}
+
+.smallPs{
+display: flex;
+flex-direction: row;
+justify-content: center;
+font-size: 17pt;
+text-align: left;
+}
+
+
+.firstc{
+  margin: 45px;
+}
+
+.secondc{
+  margin: 45px;
+}
+
+.thirdc{
+  margin: 45px;
+}
+
+.fourthc{
+  margin: 45px;
+}
